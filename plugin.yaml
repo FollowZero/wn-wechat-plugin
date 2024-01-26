@@ -1,0 +1,6 @@
+plugin:
+    name: 'summer.wechat::lang.plugin.name'
+    description: 'summer.wechat::lang.plugin.description'
+    author: summer
+    icon: wn-icon-wechat
+    replaces: {  }

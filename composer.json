@@ -1,0 +1,24 @@
+{
+    "name": "summercms/wn-wechat-plugin",
+    "vendor": "summer",
+    "type": "winter-plugin",
+    "description": "wechat plugin",
+    "keywords": ["winter", "cms", "wechat", "plugin"],
+    "license": "MIT",
+    "homepage": "https://github.com/followzero/wn-wechat-plugin",
+    "authors": [
+        {
+            "name": "Summer CMS",
+            "email": "oct38577145@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "installer-paths": {
+            "summercms/wn-wechat-plugin":"plugins/summer/wechat"
+        }
+    },
+    "require": {
+        "w7corp/easywechat": "^6.7"
+    }
+}
